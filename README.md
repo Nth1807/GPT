@@ -1,2 +1,0 @@
-# GPT
-Chat_GPT
